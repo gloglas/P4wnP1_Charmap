@@ -163,7 +163,7 @@ open("_Arial",1200,600);
 // Use arrows to find defined characters in string
 findChars("?:'!\\Y()");
 // Copy characters & close
-close(10,10);
+close(10,false);
 
 // Demo
 press("GUI");
