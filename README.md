@@ -1,5 +1,8 @@
 # P4wnP1_Charmap
 Don't bother with layouts on windows!
+
+JS Helper for amazing project [P4wnP1_aloa](https://github.com/mame82/P4wnP1_aloa)
+
 Note: This is my rewrited library from Arduino C++: [link](https://github.com/gloglas/HID_Charmap)
 
 ## Usage
